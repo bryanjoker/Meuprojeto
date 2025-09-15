@@ -13,7 +13,7 @@ while opção != 0:
         series.append(serie); serviços.append(serviço); temporadas.append(temporada)
    
         opção == 2
-        print(f'Você assistiu apenas a', [temporada] [serie])
+        print(f'Você assistiu apenas a', [temporada], [serie])
 
 print(series, serviços, temporadas)
 
